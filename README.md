@@ -12,7 +12,6 @@
   <li>Express.js</li>
   <li>MongoDB</li>
   <li>Redux</li>
-  <li>Material Ui</li>
   <li>NPM Packages</li>
   
 </ul>
